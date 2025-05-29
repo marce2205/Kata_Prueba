@@ -1,0 +1,4 @@
+runners\RunnerTest.class
+stepdefinitions\FormularioSteps.class
+stepdefinitions\Hooks.class
+stepdefinitions\RegistroSteps.class
